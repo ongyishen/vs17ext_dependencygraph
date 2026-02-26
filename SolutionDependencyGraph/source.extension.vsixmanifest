@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="SolutionDependencyGraph.f6361949-0dd7-4de7-b589-8fe68c9c3138" Version="1.0.0" Language="en-US" Publisher="ongyishen" />
+        <Identity Id="SolutionDependencyGraph.f6361949-0dd7-4de7-b589-8fe68c9c3138" Version="1.0.1" Language="en-US" Publisher="ongyishen" />
         <DisplayName>Solution Dependency Graph</DisplayName>
         <Description xml:space="preserve">Generate Mermaid dependency graphs, NuGet restore graphs, and project lists from your Visual Studio solution — all from a right-click context menu on the Solution node.
 

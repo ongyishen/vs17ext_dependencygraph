@@ -71,18 +71,18 @@
     <VSCTCompile Include="GenerateGraphCommandPackage.vsct">
       <ResourceName>Menus.ctmenu</ResourceName>
     </VSCTCompile>
-    <Content Include="index.html" />
     <Content Include="Resources\GenerateGraphCommand.png" />
     <Content Include="Resources\GenerateGraphCommandPackage.ico" />
     <Content Include="Resources\CommandIcons.png" />
     <Content Include="Resources\icon_graph.png" />
     <Content Include="Resources\icon_json.png" />
     <Content Include="Resources\icon_list.png" />
-    <Content Include="Resources\icon.png" />
+    <Content Include="Resources\icon.png">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="LICENSE.txt">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="stylesheet.css" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
