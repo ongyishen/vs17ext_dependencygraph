@@ -40,7 +40,7 @@ graph TD
 
 ### From MarketPlace
 
-1. Download the `.vsix` from [[Releases](https://github.com/ongyishen/SolutionDependencyGraph/releases)](https://marketplace.visualstudio.com/items?itemName=ONGYISHEN.sdg17)
+1. Download the `.vsix` from [MarketPlace](https://marketplace.visualstudio.com/items?itemName=ONGYISHEN.sdg17)
 2. Double-click to install
 3. Restart Visual Studio
 
